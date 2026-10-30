@@ -1,0 +1,212 @@
+[
+    {
+        "topic": "Ancient History",
+        "question": "Which civilization built the pyramids at Giza?",
+        "context": "The pyramids at Giza were constructed by ancient Egyptians during the Old Kingdom period. The Great Pyramid was built for Pharaoh Khufu.",
+        "answer": "The ancient Egyptians built the pyramids at Giza. The Great Pyramid was constructed for Pharaoh Khufu during the Old Kingdom.",
+        "source": "Curated historical reference: Ancient Egypt"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "Who was Alexander the Great?",
+        "context": "Alexander III of Macedon, commonly known as Alexander the Great, was a Macedonian king who created one of the largest empires of the ancient world.",
+        "answer": "Alexander the Great was the king of Macedon who established a vast empire stretching from Greece through Egypt and into parts of Asia.",
+        "source": "Curated historical reference: Alexander the Great"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "What was the Indus Valley Civilization known for?",
+        "context": "The Indus Valley Civilization was an ancient civilization known for planned cities, drainage systems, standardized weights and measures, and extensive trade.",
+        "answer": "The Indus Valley Civilization was known for its well-planned cities, sophisticated drainage systems, standardized weights and measures, and trade networks.",
+        "source": "Curated historical reference: Indus Valley Civilization"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "Who founded the Maurya Empire?",
+        "context": "Chandragupta Maurya founded the Maurya Empire around 322 BCE in the Indian subcontinent, establishing a major imperial dynasty.",
+        "answer": "Chandragupta Maurya founded the Maurya Empire around 322 BCE.",
+        "source": "Curated historical reference: Maurya Empire"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "Who was Ashoka?",
+        "context": "Ashoka was a Mauryan emperor who ruled much of the Indian subcontinent. After the Kalinga War, he promoted dhamma and supported the spread of Buddhism.",
+        "answer": "Ashoka was a Mauryan emperor who promoted dhamma and supported Buddhism, particularly following the Kalinga War.",
+        "source": "Curated historical reference: Emperor Ashoka"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "What was the Roman Republic?",
+        "context": "The Roman Republic was the period of ancient Roman government that followed the monarchy and preceded the Roman Empire. It was characterized by elected magistrates and a Senate.",
+        "answer": "The Roman Republic was an ancient Roman system of government in which elected officials and the Senate played important political roles.",
+        "source": "Curated historical reference: Roman Republic"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "Who was Julius Caesar?",
+        "context": "Julius Caesar was a Roman general and statesman whose military campaigns and political actions played a major role in the transformation of the Roman Republic.",
+        "answer": "Julius Caesar was a Roman general and statesman who played a central role in the events that led to the end of the Roman Republic.",
+        "source": "Curated historical reference: Julius Caesar"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "What was the Silk Road?",
+        "context": "The Silk Road was a network of trade routes connecting China and other parts of East Asia with Central Asia, the Middle East, and Europe.",
+        "answer": "The Silk Road was a network of trade routes connecting East Asia with Central Asia, the Middle East, and Europe, facilitating the exchange of goods and ideas.",
+        "source": "Curated historical reference: Silk Road"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "What was the significance of the Code of Hammurabi?",
+        "context": "The Code of Hammurabi was a Babylonian collection of laws issued under King Hammurabi. It is among the best-preserved ancient legal codes.",
+        "answer": "The Code of Hammurabi was an ancient Babylonian collection of laws that provides important evidence about legal and social practices in Mesopotamia.",
+        "source": "Curated historical reference: Code of Hammurabi"
+    },
+    {
+        "topic": "Ancient History",
+        "question": "What was ancient Athens known for?",
+        "context": "Ancient Athens was an important Greek city-state associated with the development of democracy, philosophy, drama, and architecture.",
+        "answer": "Ancient Athens was known for its contributions to democracy, philosophy, drama, and architecture.",
+        "source": "Curated historical reference: Ancient Athens"
+    },
+    {
+        "topic": "Medieval History",
+        "question": "Who was Charlemagne?",
+        "context": "Charlemagne was a Frankish king who became emperor in 800 CE. His rule helped consolidate much of Western and Central Europe.",
+        "answer": "Charlemagne was a Frankish ruler crowned emperor in 800 CE who consolidated a large part of Western and Central Europe.",
+        "source": "Curated historical reference: Charlemagne"
+    },
+    {
+        "topic": "Medieval History",
+        "question": "What was the Magna Carta?",
+        "context": "The Magna Carta was sealed by King John of England in 1215. It established certain limits on royal authority and influenced later constitutional developments.",
+        "answer": "The Magna Carta was a charter sealed by King John in 1215 that placed certain limits on royal authority and influenced constitutional history.",
+        "source": "Curated historical reference: Magna Carta"
+    },
+    {
+        "topic": "Medieval History",
+        "question": "Who was Genghis Khan?",
+        "context": "Genghis Khan united Mongol tribes and founded the Mongol Empire in the early thirteenth century.",
+        "answer": "Genghis Khan was the Mongol leader who united Mongol tribes and founded the Mongol Empire.",
+        "source": "Curated historical reference: Genghis Khan"
+    },
+    {
+        "topic": "Medieval History",
+        "question": "What was the Black Death?",
+        "context": "The Black Death was a devastating plague pandemic that affected Europe, Asia, and North Africa during the fourteenth century.",
+        "answer": "The Black Death was a major fourteenth-century plague pandemic that caused widespread mortality across Europe, Asia, and North Africa.",
+        "source": "Curated historical reference: Black Death"
+    },
+    {
+        "topic": "Medieval History",
+        "question": "Who built the Taj Mahal?",
+        "context": "The Mughal emperor Shah Jahan commissioned the Taj Mahal in Agra in memory of his wife Mumtaz Mahal. Construction began in 1632.",
+        "answer": "Mughal emperor Shah Jahan commissioned the Taj Mahal in memory of his wife Mumtaz Mahal.",
+        "source": "Curated historical reference: Taj Mahal"
+    },
+    {
+        "topic": "Medieval History",
+        "question": "Who was Akbar?",
+        "context": "Akbar was the third Mughal emperor. He ruled from 1556 to 1605 and expanded and consolidated the Mughal Empire.",
+        "answer": "Akbar was the third Mughal emperor, ruling from 1556 to 1605. He expanded and consolidated the Mughal Empire.",
+        "source": "Curated historical reference: Akbar"
+    },
+    {
+        "topic": "Modern History",
+        "question": "When did the French Revolution begin?",
+        "context": "The French Revolution began in 1789. It transformed France's political and social structures and influenced political movements across Europe.",
+        "answer": "The French Revolution began in 1789 and brought major political and social changes to France.",
+        "source": "Curated historical reference: French Revolution"
+    },
+    {
+        "topic": "Modern History",
+        "question": "What was the Industrial Revolution?",
+        "context": "The Industrial Revolution began in Britain in the eighteenth century and involved the transition toward machine-based manufacturing, factory production, and new energy technologies.",
+        "answer": "The Industrial Revolution was a period of major economic and technological transformation that began in Britain in the eighteenth century, introducing mechanized manufacturing and factory production.",
+        "source": "Curated historical reference: Industrial Revolution"
+    },
+    {
+        "topic": "Modern History",
+        "question": "When did the First World War begin?",
+        "context": "The First World War began in 1914 and continued until 1918. It involved major powers and alliances across Europe and other regions.",
+        "answer": "The First World War began in 1914 and ended in 1918.",
+        "source": "Curated historical reference: First World War"
+    },
+    {
+        "topic": "Modern History",
+        "question": "When did the Second World War end?",
+        "context": "The Second World War ended in 1945. Germany surrendered in May, while Japan formally surrendered in September.",
+        "answer": "The Second World War ended in 1945. Germany surrendered in May, and Japan formally surrendered in September.",
+        "source": "Curated historical reference: Second World War"
+    },
+    {
+        "topic": "Modern History",
+        "question": "Who was Mahatma Gandhi?",
+        "context": "Mahatma Gandhi was a leader of India's independence movement who advocated nonviolent resistance and civil disobedience.",
+        "answer": "Mahatma Gandhi was a major leader of India's independence movement, known for advocating nonviolent resistance and civil disobedience.",
+        "source": "Curated historical reference: Mahatma Gandhi"
+    },
+    {
+        "topic": "Modern History",
+        "question": "When did India become independent?",
+        "context": "India became independent from British colonial rule on 15 August 1947.",
+        "answer": "India became independent on 15 August 1947, ending British colonial rule.",
+        "source": "Curated historical reference: Indian Independence"
+    },
+    {
+        "topic": "Modern History",
+        "question": "Who was Nelson Mandela?",
+        "context": "Nelson Mandela was an anti-apartheid activist who became South Africa's first Black president in 1994 after the country's first fully democratic elections.",
+        "answer": "Nelson Mandela was an anti-apartheid leader who became South Africa's first Black president in 1994.",
+        "source": "Curated historical reference: Nelson Mandela"
+    },
+    {
+        "topic": "Modern History",
+        "question": "What was the Cold War?",
+        "context": "The Cold War was a period of geopolitical rivalry between the United States and the Soviet Union after the Second World War.",
+        "answer": "The Cold War was a prolonged geopolitical rivalry between the United States and the Soviet Union following the Second World War.",
+        "source": "Curated historical reference: Cold War"
+    },
+    {
+        "topic": "Modern History",
+        "question": "When was the United Nations established?",
+        "context": "The United Nations officially came into existence on 24 October 1945, following the Second World War.",
+        "answer": "The United Nations was officially established on 24 October 1945.",
+        "source": "Curated historical reference: United Nations"
+    },
+    {
+        "topic": "Modern History",
+        "question": "What was the Renaissance?",
+        "context": "The Renaissance was a period of cultural, artistic, scientific, and intellectual revival that began in Italy and spread across Europe.",
+        "answer": "The Renaissance was a period of cultural and intellectual revival that began in Italy and influenced art, science, literature, and philosophy across Europe.",
+        "source": "Curated historical reference: Renaissance"
+    },
+    {
+        "topic": "Modern History",
+        "question": "What was the American Declaration of Independence?",
+        "context": "The Declaration of Independence was adopted by the Second Continental Congress on 4 July 1776, announcing the thirteen colonies' separation from Great Britain.",
+        "answer": "The American Declaration of Independence was adopted on 4 July 1776 and announced the thirteen colonies' separation from Great Britain.",
+        "source": "Curated historical reference: American Declaration of Independence"
+    },
+    {
+        "topic": "Modern History",
+        "question": "Who was Martin Luther King Jr.?",
+        "context": "Martin Luther King Jr. was an American civil rights leader who advocated nonviolent resistance against racial segregation and discrimination.",
+        "answer": "Martin Luther King Jr. was an American civil rights leader known for advocating nonviolent resistance against racial segregation and discrimination.",
+        "source": "Curated historical reference: Martin Luther King Jr."
+    },
+    {
+        "topic": "Modern History",
+        "question": "What was the Berlin Wall?",
+        "context": "The Berlin Wall was a barrier erected by East Germany in 1961 that divided East and West Berlin. It opened in November 1989.",
+        "answer": "The Berlin Wall was a barrier built in 1961 that divided East and West Berlin. It opened in November 1989.",
+        "source": "Curated historical reference: Berlin Wall"
+    },
+    {
+        "topic": "Modern History",
+        "question": "What was the significance of India's Constitution?",
+        "context": "The Constitution of India was adopted on 26 November 1949 and came into effect on 26 January 1950.",
+        "answer": "The Constitution of India established the country's constitutional framework. It was adopted on 26 November 1949 and came into effect on 26 January 1950.",
+        "source": "Curated historical reference: Constitution of India"
+    }
+]
